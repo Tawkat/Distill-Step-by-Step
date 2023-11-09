@@ -2,7 +2,7 @@
 
 Implementation of [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes](https://arxiv.org/abs/2305.02301)
 
-This code is re-implemented for **Detoxification** project. (_Details coming soon!_)
+This code is re-implemented for **[Detoxification](https://github.com/Tawkat/Detoxification/)** project. (_Details coming soon!_)
 
 ### Datasets Description
 
